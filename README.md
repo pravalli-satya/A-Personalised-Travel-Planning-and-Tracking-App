@@ -1,14 +1,14 @@
 # A-Personalised-Travel-Planning-and-Tracking-App
 
-Team Leader : Dwarampudi pravalli satya
+Team Leader : Dwarampudi Pravalli Satya
 
-Team member : Akula likhitha sri
+Team member : Akula Likhitha Sri
 
-Team member : Bodulajenniferratnasree
+Team member : Bodula Jennifer ratna sree
 
-Team member : Dudalaynvvsrisowjanya
+Team member : Dudala Y N V V Sri Sowjanya
 
-Team member : Grandhilikhithasriya
+Team member : Grandhi Likhitha Sriya
 
 
 
