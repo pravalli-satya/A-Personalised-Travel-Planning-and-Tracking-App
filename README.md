@@ -1,8 +1,8 @@
 # A-Personalised-Travel-Planning-and-Tracking-App
 
-Team Leader : Dwarampudipravallisatya
+Team Leader : Dwarampudi pravalli satya
 
-Team member : Akulalikhithasri
+Team member : Akula likhitha sri
 
 Team member : Bodulajenniferratnasree
 
